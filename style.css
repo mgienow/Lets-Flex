@@ -1,0 +1,20 @@
+
+.container {
+  width: 50em;
+  margin: 2em auto;
+}
+p {
+  font-family: sans-serif;
+  color: white;
+  font-size: 3em;
+  font-weight: bold;
+}
+.box {
+  width: 25em;
+  height: 10em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid tan;
+  background-color: lightblue;
+}
